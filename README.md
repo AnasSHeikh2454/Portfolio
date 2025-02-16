@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! This repository serves as a central hub for all 
 
 - **Repo:** [Spike Sorting GUI(https://github.com/AnasSHeikh2454/Spike_sorting_GUI)
 
-### 3️⃣ Live Crypto Project
+### 3️⃣ Live Crypto Project(including web_scrapper)
 
 - **Technologies:**  
   Python, Pandas, Matplotlib, Plotly, python-docx, OpenPyXL, Schedule, Requests, Dropbox API (for file sharing)
