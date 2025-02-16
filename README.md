@@ -8,15 +8,14 @@ Welcome to my GitHub portfolio! This repository serves as a central hub for all 
 ### 1️⃣ Cab Sharing Web App
 - **Technologies:** Java (Spring Boot), React, JWT, H2 Databases React.js, Axios, Gradle
 - **Description:** A web app for posting and booking shared cab rides.
-- **Repo:** [Cab Sharing Web App](https://github.com/AnasSHeikh2454/app)
+- **Repo:** [Project 1](https://github.com/AnasSHeikh2454/app)
 
 ### 2️⃣ Spike Sorting GUI
 - **Technologies:** Python, Tkinter, SpikeInterface, MountainSort5, Pandas, NumPy, Matplotlib, OpenPyXL/XlsxWriter
 - **Description:** A Python-based GUI that streamlines neural spike sorting by integrating MountainSort5 and SpikeInterface for efficient preprocessing, visualization, and data export.
   It simplifies the spike sorting workflow for single-channel neural data, making advanced analysis accessible even for users with limited coding experience.
-- **Repo:** [Spike Sorting GUI](https://github.com/AnasSHeikh2454/Spike_sorting_GUI)
 
-- **Repo:** [Spike Sorting GUI(https://github.com/AnasSHeikh2454/Spike_sorting_GUI)
+- **Repo:** [Project 2](https://github.com/AnasSHeikh2454/Spike_sorting_GUI)
 
 ### 3️⃣ Live Crypto Project(including web_scrapper)
 
